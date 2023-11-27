@@ -1,5 +1,5 @@
 
-# Laboratorio 06 
+# Laboratorio 05 
 DOM y Asincronismo
 
 
